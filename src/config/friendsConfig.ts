@@ -22,6 +22,16 @@ export const friendsPageConfig: FriendsPageConfig = {
 
 // 友链配置
 export const friendsConfig: FriendLink[] = [
+		{
+		title: "晖绝",
+		imgurl:
+			"https://huijue.top/favicon.ico",
+		desc: "晖绝的个人博客主页",
+		siteurl: "https://huijue.top/",
+		tags: ["Friend"],
+		weight: 11, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
+	},
 	{
 		title: "夏夜流萤",
 		imgurl:
