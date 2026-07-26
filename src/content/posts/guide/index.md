@@ -1,14 +1,14 @@
 ---
 title: Firefly 简单使用指南
-published: 1970-01-02
-pinned: true
+published: 2026-07-26
 description: "如何使用 Firefly 博客模板。"
 image: "./cover.avif"
 tags: ["Firefly", "博客", "Markdown", "指南"]
 category: 博客指南
 ---
 
-
+> [!TIP] 提示
+> 本文转载于博主 [夏夜流萤](https://blog.cuteleaf.cn/) 文章：[Firefly 简单使用指南](https://blog.cuteleaf.cn/posts/guide/) 转载请注明文章来源。如有侵权，请联系博主进行删除，🤲❤️~
 
 这个博客模板是基于 [Astro](https://astro.build/) 构建的。对于本指南中未提及的内容，您可以在 [Astro 文档](https://docs.astro.build/) 中找到答案。
 

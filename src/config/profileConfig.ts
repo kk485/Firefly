@@ -9,7 +9,7 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/残梦断忆.avif",
 
 	// 名字
-	name: "এ白夜墨꧔❃",
+	name: "এ残梦断忆꧔❃",
 
 	// 个人签名
 	bio: "✨愿神明偏爱，一切从欢✨",
