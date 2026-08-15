@@ -100,6 +100,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				external: true,
 				icon: "material-symbols:page-footer-outline",
 			},
+			{
+				name: "数据统计",
+				url: "https://uma.baiym.top/share/2zM2VdgyxtCHstQj", 
+				external: true,
+				icon: "material-symbols:monitoring",
+        	},
 		],
 	});
 
