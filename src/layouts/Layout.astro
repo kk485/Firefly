@@ -10,6 +10,7 @@ import GithubCardManager from "@components/features/GithubCardManager.astro";
 import MusicManager from "@components/features/MusicManager.astro";
 import MusicPlayerView from "@components/features/MusicPlayerView.astro";
 import SakuraEffect from "@components/features/SakuraEffect.astro";
+import WelcomeToast from "@components/widget/WelcomeToast.astro"; //欢迎提示语组件
 import TitleChange from "@components/features/TitleChange.astro"; //网页标题切换组件
 import WavesEffect from "@components/features/WavesEffect.astro";
 import ConfigCarrier from "@components/layout/ConfigCarrier.astro";
@@ -457,6 +458,7 @@ const siteLang = lang.replace("_", "-");
 
     <!-- Sakura Effect -->
     <SakuraEffect />
+    <WelcomeToast />
 
     <!-- Water Waves Effect -->
     <WavesEffect />
