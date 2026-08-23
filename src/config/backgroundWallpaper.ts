@@ -113,7 +113,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				{
 					name: "Email",
 					icon: "fa7-solid:envelope",
-					url: "3148785405@qq.com",
+					url: "mailto:3148785405@qq.com",
 				},
 				{
 					name: "Sponsor",
